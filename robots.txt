@@ -1,0 +1,6 @@
+# robots.txt for NexaTech Solutions Uganda
+User-agent: *
+Allow: /
+
+# Sitemap Location (Replace with your actual Cloudflare Pages production URL)
+Sitemap: https://nexatech-solutions.pages.dev/sitemap.xml
